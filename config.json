@@ -3,7 +3,7 @@
 
 	"general": {
 		"title": "IITP Transfer",
-		"subtitle": "The self-hosted file sharing solution",
+		"subtitle": "IIT Patna's file sharing portal",
 		"baseUrl": "http://localhost:5000",
 		"cleanupSchedule": "*/1 * * * *",
 		"schedulerEnabled": false,
